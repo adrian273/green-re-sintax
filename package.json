@@ -1,7 +1,7 @@
 {
   "name": "green-re-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A lo Matrix!",
   "keywords": [
     "syntax",
@@ -13,10 +13,10 @@
     "hacking"
   ],
   "repository": {
-      "type": "git",
-      "url":"git+https://github.com/adrian273/green-re-sintax.git"
-    },
-  "homepage":"https://github.com/adrian273/green-re-sintax#readme",
+    "type": "git",
+    "url": "git+https://github.com/adrian273/green-re-sintax.git"
+  },
+  "homepage": "https://github.com/adrian273/green-re-sintax#readme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
