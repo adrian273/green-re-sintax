@@ -1,0 +1,20 @@
+{
+  "name": "green-re-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A lo Matrix!",
+  "keywords": [
+    "syntax",
+    "theme",
+    "green",
+    "retro",
+    "consola",
+    "matrix",
+    "hacking"
+  ],
+  "repository": "https://github.com/atom/green-re-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
