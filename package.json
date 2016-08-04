@@ -14,7 +14,7 @@
   ],
   "repository": {
       "type": "git",
-      "url":"git+https://github.com/adrian273/green-re-sintax.git",
+      "url":"git+https://github.com/adrian273/green-re-sintax.git"
     },
   "homepage":"https://github.com/adrian273/green-re-sintax#readme",
   "license": "MIT",
