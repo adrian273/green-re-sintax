@@ -12,7 +12,7 @@
     "matrix",
     "hacking"
   ],
-  "repository": "https://github.com/atom/green-re-syntax",
+  "repository": "https://github.com/adrian273/green-re-sintax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
