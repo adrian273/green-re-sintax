@@ -12,7 +12,11 @@
     "matrix",
     "hacking"
   ],
-  "repository": "https://github.com/adrian273/green-re-sintax",
+  "repository": {
+      "type": "git",
+      "url":"git+https://github.com/adrian273/green-re-sintax.git",
+    },
+  "homepage":"https://github.com/adrian273/green-re-sintax#readme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
